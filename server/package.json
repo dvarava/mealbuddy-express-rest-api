@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": ["meal", "buddy", "api", "express", "rest"],
-  "author": "Your Name",
+  "author": "Deniel Varava",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
