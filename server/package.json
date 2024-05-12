@@ -1,0 +1,16 @@
+{
+  "name": "mealbuddy-express-rest-api",
+  "version": "1.0.0",
+  "description": "A REST API for MealBuddy application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["meal", "buddy", "api", "express", "rest"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+  }
+}
