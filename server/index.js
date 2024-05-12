@@ -19,7 +19,7 @@ mongoose.connect("mongodb+srv://varavadenik16:c8GTW6LzhLHO8ImU@cluster0.lutyet8.
   })
   
 const corsOptions = {
-  origin: '*',
+  origin: 'http://mealbuddywp1.s3-website-eu-west-1.amazonaws.com',
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Origin', 'X-Requested-With', 'Content-Type', 'Accept', 'Authorization']
 };
