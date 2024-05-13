@@ -1,5 +1,5 @@
 const http = require('http');
-const express = require('./rest.js');
+const express = require('./index.js');
 
 const server = http.createServer(express)
 
